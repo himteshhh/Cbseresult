@@ -15,7 +15,7 @@ function checkResult() {
   ) {
     document.getElementById("resultContainer").innerHTML = `
       <h3>Your Result:</h3>
-      <img src="images/result.jpg" alt="Result" />
+      <img src="result.jpg" alt="Result" />
     `;
   } else {
     document.getElementById("resultContainer").innerHTML =
